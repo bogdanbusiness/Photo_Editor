@@ -1,4 +1,4 @@
-#### Gheorghe Andrei-Bogdan - 313CA
+#### Copyright - 2024 Gheorghe Andrei-Bogdan
 
 # Image editing program
 
