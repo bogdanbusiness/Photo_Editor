@@ -4,11 +4,11 @@
 
 ## Introduction
 
-This command line image editor program allows users to perform various
-operations on images, such as loading, saving, cropping, rotating, and
-applying filters.
-The program supports both ASCII and binary image formats PGM and PPM and
-provides a set of predefined filters for users to enhance their images.
+This command line image editor is designed for editing images in the
+PGM and PPM image formats.
+
+The program supports operations such as loading and saving, cropping,
+rotating and predefined applying filters to images.
 
 ## Table of contents
 
