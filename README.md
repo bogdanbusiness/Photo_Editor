@@ -27,24 +27,24 @@ provides a set of predefined filters for users to enhance their images.
 
 ### Program Settings:
 
-LOAD <path>:                Load an image
-SELECT <x1> <y1> <x2> <y2>: Select a region
-SELECT ALL:                 Selects entire image
-HISTOGRAM <stars> <bins>:   View histogram
-EQUALIZE:                   Equalize image histogram
-ROTATE <angle>:             Rotate an image or selected region
-CROP:                       Crop an image
-APPLY <filter>:             Apply a filter
-SAVE <path> [ascii]:        Save the image
-EXIT:                       Exit the program
-SHOW [CONTENT]:             View the image
+- LOAD <path>:                Load an image
+- SELECT <x1> <y1> <x2> <y2>: Select a region
+- SELECT ALL:                 Selects entire image
+- HISTOGRAM <stars> <bins>:   View histogram
+- EQUALIZE:                   Equalize image histogram
+- ROTATE <angle>:             Rotate an image or selected region
+- CROP:                       Crop an image
+- APPLY <filter>:             Apply a filter
+- SAVE <path> [ascii]:        Save the image
+- EXIT:                       Exit the program
+- SHOW [CONTENT]:             View the image
 
 ### Filter Settings:
 
-EDGE:          Edge detection
-BLUR:          Blur
-SHARPEN:       Sharpen
-GAUSSIAN_BLUR: 3x3 gaussian blur
+- EDGE:          Edge detection
+- BLUR:          Blur
+- SHARPEN:       Sharpen
+- GAUSSIAN_BLUR: 3x3 gaussian blur
 
 ## Documentation
 
