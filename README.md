@@ -8,7 +8,7 @@ This command line image editor is designed for editing images in the
 PGM and PPM image formats.
 
 The program supports operations such as loading and saving, cropping,
-rotating and predefined applying filters to images.
+rotating and applying predefined filters to images.
 
 ## Table of contents
 
