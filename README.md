@@ -1,5 +1,3 @@
-#### Copyright - 2024 Gheorghe Andrei-Bogdan
-
 # Image editing program
 
 ## Introduction
@@ -178,3 +176,5 @@ and closes the program.
 
 Shows the metadata of the image.
 If the command is SHOW CONTENT, it outputs the entire image to the console.
+
+#### Copyright - 2024 Gheorghe Andrei-Bogdan
